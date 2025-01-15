@@ -1,4 +1,4 @@
-# YOLOv5 and Simple Online Realtime Tracking for Counting Cars 
+# YOLOv5 and Online Realtime Tracking for Counting Cars 
 This repository for Detecting and Counting Cars of top-view using YOLOv5 detecting and Deep-SORT tracking
 
 
